@@ -22,7 +22,7 @@ Now it was possible to graph the information contained in the pivot table with t
 
 With the graph established, it was easier to visualize any shifts in the success of theater campaigns by filtering on specific years or a range of years within the pivot table.  It became evident that several years contained no or very minimal data that impacts the overall results.  When further filtering the pivot table for the range of years 2014 through 2016 when almost all of the theater data is derived, a shift in results occurs.
 
-![Outcomes Based on Launch Dates for Years 2014 to 2016](Resources/2014_2016_theater outcomes.png)
+![2014_2016_theater_outcomes](Resources/2014_2016_theater outcomes.png)
 
 ### Analysis of Outcomes Based on Goals
 
