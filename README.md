@@ -18,17 +18,17 @@ A pivot table was then created to allow for filtering of Parent Categories and Y
 
 Now it was possible to graph the information contained in the pivot table with the requested line graph.  From here we can easily see some overall trends.
 
-![Outcomes Based on Launch Date Graph](Resources\Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date Graph](Resources/Theater_Outcomes_vs_Launch.png)
 
 With the graph established, it was easier to visualize any shifts in the success of theater campaigns by filtering on specific years or a range of years within the pivot table.  It became evident that several years contained no or very minimal data that impacts the overall results.  When further filtering the pivot table for the range of years 2014 through 2016 when almost all of the theater data is derived, a shift in results occurs.
 
-![Outcomes Based on Launch Dates for Years 2014 to 2016](Resources\2014_2016_theater outcomes.png)
+![2014_2016_theater_outcomes](Resources/2014_2016_theater outcomes.png)
 
 ### Analysis of Outcomes Based on Goals
 
 To analyze outcomes of the subcategory "plays" and the impact of their campaign goal amounts, we start by extracting data into a new sheet to categorize them within goal ranges.  The COUNTIFS() function was utilized to populate columns of the number of successful, failed and canceled plays from the Kickstarter data set.  From there, it is possible to sum all the campaigns within each goal range to create the percentage of successful, failed and canceled campaigns.  Now, it is possible to visualize the percentage of successful, failed and canceled campaigns by their goal amount ranges.
 
-![Outcomes vs Goals](Resources\Outcomes_vs_Goals.png)
+![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges
